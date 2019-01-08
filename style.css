@@ -1,0 +1,11 @@
+html {
+  font-family: sans-serif;
+  background: black;
+  color: white;
+}
+
+
+#wrap {
+  width: 75%;
+  margin: auto;
+}
